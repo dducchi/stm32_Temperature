@@ -1,0 +1,4 @@
+../Core/Src/uar.c:20:6:initUart	8	static
+../Core/Src/uar.c:25:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/uar.c:33:9:getChar	16	static
+../Core/Src/uar.c:42:5:_write	24	static
